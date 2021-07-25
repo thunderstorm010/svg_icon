@@ -1,5 +1,5 @@
 name: svg_icon
-description: SVG Icons using IconTheme
+description: Use SvgPicture.asset with an IconTheme
 version: 0.0.1
 homepage:
 
